@@ -4,5 +4,6 @@ public enum Type {
     TERROR,
     ACAO,
     COMEDIA,
-    FICCAO
+    FICCAO,
+    VIDA_ESCOLAR
 }
